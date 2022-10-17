@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GitHub-Arpit-Bansal
-- 👀 I’m interested in ...C++ and eager to learn more.
-- 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ...not interseted.
-- 📫 How to reach me ...insta(ig_arpitbansal)
+- 👀 I know C/C++, Python
+- 🌱 I’m currently learning Data Structure.
+- 💞️ I’m looking to collaborate on C++/Python Projects.
+- 📫 Connect me: arpitbansal2304@gmail.com
 
 <!---
 GitHub-Arpit-Bansal/GitHub-Arpit-Bansal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
